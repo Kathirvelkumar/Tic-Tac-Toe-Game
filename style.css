@@ -138,6 +138,9 @@ h2 {
 
 /* Responsive Styles */
 @media screen and (max-width: 600px) {
+    body {
+        background-position: 710px;
+    }
     h1 {
         font-size: 2em;
     }
@@ -167,4 +170,5 @@ h2 {
     .msg {
         font-size: 30px;
     }
+
 }
